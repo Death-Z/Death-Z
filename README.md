@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey there, I'm DeathZ! 👋
 
-<!--
-**Death-Z/Death-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇧🇷 I'm Brazilian.
+- 🏁 I started learning programming in `2018`.
+- 💻 My first programming language was Python, but I don’t program in it anymore.
+- 🖤 I love helping people to start programming and giving tips.
+- 🎲 Fun fact: Im -18y and I love playing rhythm games.
 
-Here are some ideas to get you started:
+### My Projects ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 [SKYY](http://skyy.xyz) - Minecraft Cheat Scanner (FREE)
+- 🌑 [MoonDLL](http://moondll.ml) - Injectable AutoClicker (FREE)
+(More amazing projects will be added, I just need more time)
+
+### What linguages I code?
+- C/C++
+- C Sharp
+- JavaScript
+- Java
