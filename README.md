@@ -13,7 +13,7 @@
 
 (More amazing projects will be added, I just need more time)
 
-### What linguages I code?
+### What linguages I code? 💻
 - C/C++
 - C Sharp
 - JavaScript
