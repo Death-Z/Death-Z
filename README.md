@@ -10,6 +10,7 @@
 
 - 🔭 [SKYY](http://skyy.xyz) - Minecraft Cheat Scanner (FREE)
 - 🌑 [MoonDLL](http://moondll.ml) - Injectable AutoClicker (FREE)
+- ⚗️ [DopeObfuscator](https://death-z.github.io/DopeObfuscator/) - Simple Batch Obfuscator (FREE)
 
 (More amazing projects will be added, I just need more time)
 
