@@ -8,7 +8,7 @@
 
 ### My Projects ⚙️
 
-- 🔭 [SKYY](https://death-z.github.io/SKYY) - Minecraft Cheat Scanner (FREE)
+- 🔭 [SKYY](https://skyyss.ml/) - Minecraft Cheat Scanner (FREE)
 - 🌑 [MoonDLL](http://moondll.ml) - Injectable AutoClicker (FREE)
 - ⚗️ [DopeObfuscator](https://death-z.github.io/DopeObfuscator) - Simple Batch Obfuscator (FREE)
 - ☣️ [Vortex Client](https://vortexclient.club/) - Minecraft Cheat (FREE/PAID)
