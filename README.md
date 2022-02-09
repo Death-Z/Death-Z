@@ -4,13 +4,14 @@
 - 🏁 I started learning programming in `2018`.
 - 💻 My first programming language was Python, but I don’t program in it anymore.
 - 🖤 I love helping people to start programming and giving tips.
-- 🎲 Fun fact: Im -18y and I love play rhythm games.
+- 🎲 Fun fact: I love play rhythm games and listening to lofi songs.
 
 ### My Projects ⚙️
 
 - 🔭 [SKYY](https://death-z.github.io/SKYY) - Minecraft Cheat Scanner (FREE)
 - 🌑 [MoonDLL](http://moondll.ml) - Injectable AutoClicker (FREE)
-- ⚗️ [DopeObfuscator](https://death-z.github.io/DopeObfuscator/) - Simple Batch Obfuscator (FREE)
+- ⚗️ [DopeObfuscator](https://death-z.github.io/DopeObfuscator) - Simple Batch Obfuscator (FREE)
+- ☣️ [Vortex Client](https://vortexclient.club/) - Minecraft Cheat (FREE/PAID)
 
 (More amazing projects will be added, I just need more time)
 
@@ -18,4 +19,4 @@
 - C/C++
 - C Sharp
 - JavaScript
-- Java
+- PHP
