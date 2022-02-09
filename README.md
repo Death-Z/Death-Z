@@ -8,10 +8,10 @@
 
 ### My Projects ⚙️
 
-- 🔭 [SKYY](https://skyyss.ml/) - Minecraft Cheat Scanner (FREE)
+- 🔭 [SKYY](https://skyyss.ml) - Minecraft Cheat Scanner (FREE)
 - 🌑 [MoonDLL](http://moondll.ml) - Injectable AutoClicker (FREE)
 - ⚗️ [DopeObfuscator](https://death-z.github.io/DopeObfuscator) - Simple Batch Obfuscator (FREE)
-- ☣️ [Vortex Client](https://vortexclient.club/) - Minecraft Cheat (FREE/PAID)
+- ☣️ [Vortex Client](https://vortexclient.club) - Minecraft Cheat (FREE/PAID)
 
 (More amazing projects will be added, I just need more time)
 
