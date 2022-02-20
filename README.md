@@ -4,7 +4,7 @@
 - 🏁 I started learning programming in `2018`.
 - 💻 My first programming language was Python, but I don’t program in it anymore.
 - 🖤 I love helping people to start programming and giving tips.
-- 🎲 Fun fact: I love play rhythm games and listening to lofi songs.
+- 🎲 Fun fact: I love play rhythm games and listening to lo-fi songs.
 
 ### My Projects ⚙️
 
@@ -17,6 +17,5 @@
 
 ### What languages I code? 💻
 - C/C++
-- C Sharp
-- JavaScript
 - PHP
+- JavaScript
