@@ -3,8 +3,8 @@
 - 🇧🇷 I'm Brazilian.
 - 🏁 I started learning programming in `2018`.
 - 💻 My first programming language was Python, but I don’t program in it anymore.
-- 🖤 I love helping people to start programming and giving tips.
-- 🎲 Fun fact: I love play rhythm games and listening to lo-fi songs.
+- 🔧 Now my focus is to learn and improve my reverse engine skills.
+- 🎲 Fun fact: I love play rhythm games and listening to lofi songs.
 
 ### My Projects ⚙️
 
